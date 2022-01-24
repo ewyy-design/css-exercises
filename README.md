@@ -21,3 +21,4 @@ These exercises should be done when instructed during the course of the curricul
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress you'll find that you need to add more and more to get the correct result.
 - In many cases, there will be multiple correct ways to solve these problems. The official solution isn't necessarily the _only right way_, but it is possible to do things in ways that are overall unhelpful. If your solution differs wildly from the official solution (and still passes the self-check criteria), feel free to ask about it in the chatroom.
 
+## All exercises completed.
